@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* nav section */
+
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.gamer-icon {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.gamer-icon-png {
+    width: 40px;
+    height: 25px;
+}
+
+.gamer-icon h3 {
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.G {
+    color: #FF42A5;
+}
+
+.nav-list{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
